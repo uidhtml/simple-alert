@@ -4,7 +4,7 @@ This will show simple JavaScript alert by function
 # Installation
 `npm i simple-alert --save`
 
-Than...
+Then...
 
 ```
 import { simpleAlert } from 'simpleAlert';
